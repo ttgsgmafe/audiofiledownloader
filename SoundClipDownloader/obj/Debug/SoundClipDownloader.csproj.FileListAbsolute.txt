@@ -1,0 +1,6 @@
+c:\users\ndavi\documents\visual studio 2015\Projects\SoundClipDownloader\SoundClipDownloader\bin\Debug\SoundClipDownloader.exe.config
+c:\users\ndavi\documents\visual studio 2015\Projects\SoundClipDownloader\SoundClipDownloader\bin\Debug\SoundClipDownloader.exe
+c:\users\ndavi\documents\visual studio 2015\Projects\SoundClipDownloader\SoundClipDownloader\bin\Debug\SoundClipDownloader.pdb
+c:\users\ndavi\documents\visual studio 2015\Projects\SoundClipDownloader\SoundClipDownloader\obj\Debug\SoundClipDownloader.csprojResolveAssemblyReference.cache
+c:\users\ndavi\documents\visual studio 2015\Projects\SoundClipDownloader\SoundClipDownloader\obj\Debug\SoundClipDownloader.exe
+c:\users\ndavi\documents\visual studio 2015\Projects\SoundClipDownloader\SoundClipDownloader\obj\Debug\SoundClipDownloader.pdb
